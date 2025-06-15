@@ -1,12 +1,11 @@
 'use client';
 import Link from 'next/link';
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useCallback } from 'react';
 import Image from "next/image";
 import { usePathname } from 'next/navigation';
 import { navBarMenu } from "../../constants/menu";
 import Button from '../ui/Button';
 import MobileNav from '../navigation/MobileNav';
-// import MobileNav from '../navigation/MobileNav';
 
 export default function Header() {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
