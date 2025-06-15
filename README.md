@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/28dee3cd-e638-4786-8aaa-175fc77016f3)
+
+![image](https://github.com/user-attachments/assets/724355c9-213f-41d9-a123-3d289d7c33ea)
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/65be9e27-a243-4ee7-b775-96287b645c16" />
+
 # nfts-zentek-demo
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
